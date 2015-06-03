@@ -14,8 +14,7 @@
 ######пацанам-рубистам-тестистам
 * http://www.justinweiss.com/blog/2015/05/04/how-much-testing-is-too-much/
 
-###### A pragmatic guide to Backbone.js apps. 
-###### Куча паттернов и антипаттернов по сборке больших приложений на бекбоне
+###### A pragmatic guide to Backbone.js apps. Куча паттернов и антипаттернов по сборке больших приложений на бекбоне
 * http://pragmatic-backbone.com/
 
 ###### подробнейший FAQ по прототипному наследованию в JS
@@ -29,7 +28,6 @@
 
 ###### свежачок от дяди Боба, про остохеревшие уже микросервисы
 * http://martinfowler.com/bliki/MicroservicePremium.html
-
 
 ###### layout-float
 * http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/

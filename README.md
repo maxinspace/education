@@ -18,7 +18,7 @@
 * http://pragmatic-backbone.com/
 
 ###### подробнейший FAQ по прототипному наследованию в JS
-* https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b...
+https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 
 ###### люблю такие истории, как масштабируется и растет бизнес
 * https://medium.com/@Elementaree/от-стартапа-к-бизнесу-от-хаоса-к-зарождению-системы-полгода-изменений-в-elementaree-c5fdbdb20c85

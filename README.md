@@ -2,16 +2,19 @@
 
 ##Читаем умное, полезное и интересное
 
-######советы от оооооочень крутых верстальщиков на тему правильного использования БЭМа
+###### как считается вес селекторов в CSS. tl;dr; #id — 100, .class — 10, a, :visited — 1
+* http://sixrevisions.com/css/css-specificity/
+
+###### советы от оооооочень крутых верстальщиков на тему правильного использования БЭМа
 * http://www.sitepoint.com/working-bem-scale-advice-top-developers/
 
-######почему стоит отказаться от JSX в реакт компонентах, если пишешь их на Coffeescript
+###### почему стоит отказаться от JSX в реакт компонентах, если пишешь их на Coffeescript
 * https://slack-files.com/T024L9M0Y-F02HP4JM3-80d714
 
-######How we write React. React best practices
+###### How we write React. React best practices
 * https://github.com/planningcenter/react-patterns
 
-######пацанам-рубистам-тестистам
+###### пацанам-рубистам-тестистам
 * http://www.justinweiss.com/blog/2015/05/04/how-much-testing-is-too-much/
 
 ###### A pragmatic guide to Backbone.js apps. Куча паттернов и антипаттернов по сборке больших приложений на бекбоне

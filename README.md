@@ -2,6 +2,15 @@
 
 ##Читаем умное, полезное и интересное
 
+###### как упрощать связанные запросы в AR с Relation#merge
+* http://aokolish.me/blog/2015/05/26/how-to-simplify-active-record-scopes-that-reference-other-tables
+
+###### о том, что git commit -m “unfuck this” — норм
+* http://zachholman.com/posts/git-commit-history/
+
+###### Конспект курса Ильи Бирмана «Пользовательский интерфейс и представление информации»
+* https://medium.com/design-pub/конспект-курса-ильи-бирмана-пользовательский-интерфейс-и-представление-информации-часть-1-816045f02b3e
+
 ###### как считается вес селекторов в CSS. tl;dr; #id — 100, .class — 10, a, :visited — 1
 * http://sixrevisions.com/css/css-specificity/
 

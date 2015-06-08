@@ -2,6 +2,9 @@
 
 ##Читаем умное, полезное и интересное
 
+###### Rогда надо использовать Time, а когда DateTime. DateTime — на помойку
+* https://gist.github.com/pixeltrix/e2298822dd89d854444b
+
 ###### как упрощать связанные запросы в AR с Relation#merge
 * http://aokolish.me/blog/2015/05/26/how-to-simplify-active-record-scopes-that-reference-other-tables
 

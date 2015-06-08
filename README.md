@@ -2,6 +2,12 @@
 
 ##Читаем умное, полезное и интересное
 
+###### как отменять действия в гите
+* https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+
+###### туда же: как отменить форс-пуш
+* http://tonyganch.com/git/reset/
+
 ###### Rогда надо использовать Time, а когда DateTime. DateTime — на помойку
 * https://gist.github.com/pixeltrix/e2298822dd89d854444b
 

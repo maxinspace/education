@@ -2,6 +2,18 @@
 
 ##Читаем умное, полезное и интересное
 
+###### о текущем состоянии Веб Компонентов : все плохо, медленно, вендоры — петушки
+* https://hacks.mozilla.org/2015/06/the-state-of-web-components/
+
+###### что не так с Floating Action Button в Material Design
+* https://medium.com/tech-in-asia/material-design-why-the-floating-action-button-is-bad-ux-design-acd5...
+
+###### введение в css counters
+* http://www.sitepoint.com/understanding-css-counters-and-their-use-cases
+
+###### 80% того, что надо знать об оптимизации фронтенда
+* https://jonsuh.com/blog/need-for-speed-2/
+
 ###### как отменять действия в гите
 * https://github.com/blog/2019-how-to-undo-almost-anything-with-git
 

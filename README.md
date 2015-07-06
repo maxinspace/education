@@ -2,6 +2,21 @@
 
 ##Читаем умное, полезное и интересное
 
+###### как правильно произносить некоторые ИТ термины на английском
+* https://ro-che.info/english
+
+###### более менее адекватная классификация программистов по сеньор/мидл/джуниор. лишний раз доказывает, что для роста нужен опыт и ошибки, ошибки, ошибки, ошибки
+* http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/
+
+все те же дебаты за CSS в JS со стороны фанатов CSS
+https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
+
+###### клевый трюк для прелоадинга скоупов
+* http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/
+
+###### помните статью про "End of global CSS"? чуваки запилили "спецификацию", css-modules со нужными лоадерами в вебпаке/браузерифай/jspm
+* http://glenmaddern.com/articles/interoperable-css
+
 ###### о текущем состоянии Веб Компонентов : все плохо, медленно, вендоры — петушки
 * https://hacks.mozilla.org/2015/06/the-state-of-web-components/
 

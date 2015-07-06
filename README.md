@@ -8,8 +8,8 @@
 ###### более менее адекватная классификация программистов по сеньор/мидл/джуниор. лишний раз доказывает, что для роста нужен опыт и ошибки, ошибки, ошибки, ошибки
 * http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/
 
-все те же дебаты за CSS в JS со стороны фанатов CSS
-https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
+###### все те же дебаты за CSS в JS со стороны фанатов CSS
+* https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
 
 ###### клевый трюк для прелоадинга скоупов
 * http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/

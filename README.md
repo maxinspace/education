@@ -2,6 +2,18 @@
 
 ##Читаем умное, полезное и интересное
 
+###### введение в реакт для тех, кто знает только jquery. пожалуй, лучший туториал, чтобы разобраться в Реакте сходу
+* http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
+
+###### годный чеклист по ревью PR'ов
+* http://kevinlondon.com/2015/05/05/code-review-best-practices.html
+
+###### что стало проще в Реакте с использованием es6 (babel)
+* http://babeljs.io/blog/2015/06/07/react-on-es6-plus/
+
+http://www.sitepoint.com/12-little-known-css-facts-the-sequel/
+еще 12 фактов о CSS, которых никто не знает
+
 ###### как правильно произносить некоторые ИТ термины на английском
 * https://ro-che.info/english
 

@@ -2,6 +2,24 @@
 
 ##Читаем умное, полезное и интересное
 
+###### https://css-tricks.com/what-a-css-code-review-might-look-like/
+* как должен выглядеть CSS code review
+
+###### https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031
+* Material Design Lite
+
+###### http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
+* case в Руби работает на ===, как и с чем это можно использовать
+
+###### https://github.com/reddit/reddit-mobile/issues/247
+* Пол Айриш анализирует производительность и время загрузки мобильного сайта реддита
+
+###### https://github.com/shkshk/the-formula/blob/master/app/javascripts/views/params/input.cjsx
+* React+Coffee : можно писать сразу на coffee+jsx: 
+
+###### https://github.com/reactjs/react-rails#coffeescript
+* в react-rails не очень: 
+
 ###### введение в реакт для тех, кто знает только jquery. пожалуй, лучший туториал, чтобы разобраться в Реакте сходу
 * http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 

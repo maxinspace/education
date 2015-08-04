@@ -2,26 +2,26 @@
 
 ##Читаем умное, полезное и интересное
 
-###### https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
-* CSS styleguide от ребят из Trello
+###### CSS styleguide от ребят из Trello 
+* https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
 
-###### https://css-tricks.com/what-a-css-code-review-might-look-like/
-* как должен выглядеть CSS code review
+###### как должен выглядеть CSS code review
+* https://css-tricks.com/what-a-css-code-review-might-look-like/ 
 
-###### https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031
-* Material Design Lite
+###### Material Design Lite
+* https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031 
 
-###### http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
-* case в Руби работает на ===, как и с чем это можно использовать
+###### case в Руби работает на ===, как и с чем это можно использовать
+* http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/ 
 
-###### https://github.com/reddit/reddit-mobile/issues/247
-* Пол Айриш анализирует производительность и время загрузки мобильного сайта реддита
+###### Пол Айриш анализирует производительность и время загрузки мобильного сайта реддита
+* https://github.com/reddit/reddit-mobile/issues/247 
 
-###### https://github.com/shkshk/the-formula/blob/master/app/javascripts/views/params/input.cjsx
-* React+Coffee : можно писать сразу на coffee+jsx: 
+###### React+Coffee : можно писать сразу на coffee+jsx: 
+* https://github.com/shkshk/the-formula/blob/master/app/javascripts/views/params/input.cjsx 
 
-###### https://github.com/reactjs/react-rails#coffeescript
-* в react-rails не очень: 
+###### в react-rails не очень: 
+* https://github.com/reactjs/react-rails#coffeescript 
 
 ###### введение в реакт для тех, кто знает только jquery. пожалуй, лучший туториал, чтобы разобраться в Реакте сходу
 * http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
@@ -131,7 +131,7 @@ https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-j
 * https://blog.colepeters.com/on-writing-real-css-again/
 
 ###### о том, почему в CSS так часто бывают магические числа. software cannot take into account the way humans perceive shape, colour, and size
-https://medium.com/@lukejonesme/optical-adjustment-b55492a1165c
+* https://medium.com/@lukejonesme/optical-adjustment-b55492a1165c
 
 ###### помните статью про nesting? есть ответ от чувака, угаревшего по веб-компонентам, там он увязывает все это с open/closed принципом из программирования, и поясняет по хардкору, что лучше в свете компонентного будущего
 * http://philipwalton.com/articles/extending-styles/

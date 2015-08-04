@@ -2,6 +2,9 @@
 
 ##Читаем умное, полезное и интересное
 
+###### https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
+* CSS styleguide от ребят из Trello
+
 ###### https://css-tricks.com/what-a-css-code-review-might-look-like/
 * как должен выглядеть CSS code review
 

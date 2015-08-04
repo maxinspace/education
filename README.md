@@ -32,8 +32,8 @@
 ###### что стало проще в Реакте с использованием es6 (babel)
 * http://babeljs.io/blog/2015/06/07/react-on-es6-plus/
 
-http://www.sitepoint.com/12-little-known-css-facts-the-sequel/
-еще 12 фактов о CSS, которых никто не знает
+###### еще 12 фактов о CSS, которых никто не знает
+* http://www.sitepoint.com/12-little-known-css-facts-the-sequel/
 
 ###### как правильно произносить некоторые ИТ термины на английском
 * https://ro-che.info/english

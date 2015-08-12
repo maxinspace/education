@@ -2,6 +2,21 @@
 
 ##Читаем умное, полезное и интересное
 
+###### коллекция микро-оптимизаций в Руби: gsub vs tr, call vs yield, shuffle.first vs sampe, ...
+* https://github.com/JuanitoFatas/fast-ruby
+
+###### Это та штука, про которую спрашивают (react.js - это вьюхи, но что тогда использовать в качестве моделей и контроллеров?) Введение на основе библиотеки reflux.js
+* https://ochronus.com/react-reflux-example/
+
+###### babel будет как postcss для css
+* https://github.com/babel/babel/issues/2168
+
+###### let и const в ES6
+* https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
+
+###### как пацаны из фейсбука ужимали картинки до 200 байт
+* https://code.facebook.com/posts/991252547593574
+
 ###### CSS styleguide от ребят из Trello 
 * https://gist.github.com/bobbygrace/9e961e8982f42eb91b80
 

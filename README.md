@@ -2,6 +2,18 @@
 
 ##Читаем умное, полезное и интересное
 
+###### JSX как эволюция веба
+* https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98
+
+###### bind для самых маленьких
+* https://medium.com/@dave_lunny/bind-for-dummies-5d1a750725b8
+
+###### сравнение библиотек, реализующих FLUX 
+* https://github.com/voronianski/flux-comparison
+
+###### Введение на основе библиотеки reflux.js
+* https://ochronus.com/react-reflux-example/
+
 ###### коллекция микро-оптимизаций в Руби: gsub vs tr, call vs yield, shuffle.first vs sampe, ...
 * https://github.com/JuanitoFatas/fast-ruby
 

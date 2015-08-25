@@ -2,6 +2,18 @@
 
 ##Читаем умное, полезное и интересное
 
+###### чуть больше деталей о css-модулях
+* http://glenmaddern.com/articles/css-modules
+
+###### отличное введение в флоаты и их правила
+* http://bitsofco.de/2015/how-floating-works/
+
+###### введение в flexbox, где рассказывают основную идею flexbox'ов: нить
+* http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox
+
+###### о боингах и будущем веба
+* http://idlewords.com/talks/web_design_first_100_years.htm
+
 ###### JSX как эволюция веба
 * https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98
 

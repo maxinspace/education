@@ -2,36 +2,58 @@
 
 ##Читаем умное, полезное и интересное
 
-1. Как работать со статистикой производительности индексов в Postgres - https://www.compose.io/articles/simple-index-checking-for-postgres/
-2. Чувак рассказывает, как с помощью js он создавал простой DSL для работы с JSONb в Postgres:
-  http://rob.conery.io/2015/08/20/designing-a-postgresql-document-api/
+###### Как работать со статистикой производительности индексов в Postgres: 
+* https://www.compose.io/articles/simple-index-checking-for-postgres/
+
+###### Чувак рассказывает, как с помощью js он создавал простой DSL для работы с JSONb в Postgres:
+* http://rob.conery.io/2015/08/20/designing-a-postgresql-document-api/
   http://rob.conery.io/2015/08/21/postgresql-document-api-part-2-full-text-search-and-bulk-save/
   http://rob.conery.io/2015/08/25/postgresql-document-api-part-3-finding-things/
   http://rob.conery.io/2015/09/01/postgresql-document-api-part-4-complex-queries/
-  P.S. не уверен, что это будет работаь быстро, но выглядит интересно.
-3. На закуску пару веселостей:
-  а) Либа для оффлайн-приложений в браузере (помните devdocs.io ?) - https://github.com/TalAter/UpUp
-  б) PostCSS плагин для стилей на ТАТАРСКОМ! - https://github.com/azat-io/postcss-tatar-stylesheets
-  в) Большой RC React.js - facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html
+###### P.S. не уверен, что это будет работать быстро, но выглядит интересно.
 
-интересное выступление о том, как заюзать es6 в рельсовом проекте https://www.youtube.com/watch?v=Ayj1kgQNhAg
+###### На закуску пару веселостей:
+######  а) Либа для оффлайн-приложений в браузере (помните devdocs.io ?) - 
+* https://github.com/TalAter/UpUp
+######  б) PostCSS плагин для стилей на ТАТАРСКОМ! - 
+* https://github.com/azat-io/postcss-tatar-stylesheets
+######  в) Большой RC React.js - 
+* facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html
 
-Сборник отличных статей по фичам es6: http://ponyfoo.com/articles/tagged/es6-in-depth постоянно дополняется
+###### интересное выступление о том, как заюзать es6 в рельсовом проекте 
+* https://www.youtube.com/watch?v=Ayj1kgQNhAg
 
-Статья о том, что NULL/nil не нужны: https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/, TL;DR юзайте https://github.com/rap1ds/ruby-possibly в руби и https://www.npmjs.com/package/maybe в JS
+###### Сборник отличных статей по фичам es6: 
+* http://ponyfoo.com/articles/tagged/es6-in-depth постоянно дополняется
 
-1. Как правильно выходить из Ruby приложений: http://blog.honeybadger.io/how-to-exit-a-ruby-program/
-2. Про scopes и class methods: http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
-3. How to Preload Rails Scopes: http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/
-4. Зачем нужен freeze: http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
-5. React dev tools теперь поддерживает ff: http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
-6. Декоратор для css modules в react (поддерживает browserify + решает пару проблем с webpack): https://github.com/gajus/react-css-modules
+###### Статья о том, что NULL/nil не нужны: 
+* https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/, 
+###### TL;DR юзайте 
+* https://github.com/rap1ds/ruby-possibly 
+###### в руби и 
+* https://www.npmjs.com/package/maybe в JS
 
-[авг.-27 16:32] Vasiliy Polovnev: привет
-		последняя ссылочка от меня
-		Сенди Метц о тех случаях, когда копипаста лучше неправильной абстракции
-		
-		http://us3.campaign-archive2.com/?u=1090565ccff48ac602d0a84b4&id=92902a19e4&e=49062c84a7
+###### Как правильно выходить из Ruby приложений: 
+* http://blog.honeybadger.io/how-to-exit-a-ruby-program/
+
+###### Про scopes и class methods: 
+* http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
+
+###### How to Preload Rails Scopes:
+* http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/
+
+###### Зачем нужен freeze:
+* http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
+
+###### React dev tools теперь поддерживает ff:
+* http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
+
+###### Декоратор для css modules в react (поддерживает browserify + решает пару проблем с webpack):
+* https://github.com/gajus/react-css-modules
+
+
+###### [авг.-27 16:32] Vasiliy Polovnev: привет. последняя ссылочка от меня. Сенди Метц о тех случаях, когда копипаста лучше неправильной абстракции
+* http://us3.campaign-archive2.com/?u=1090565ccff48ac602d0a84b4&id=92902a19e4&e=49062c84a7
 
 ###### чуть больше деталей о css-модулях
 * http://glenmaddern.com/articles/css-modules
